@@ -1,0 +1,27 @@
+{
+  "capturedAt": "2026-11-21T15:12:23.267Z",
+  "fileCount": 4,
+  "files": [
+    {
+      "path": "application/monitor.ts",
+      "sha256": "cfbec8a0b2cdcc98fb7a73b8e0ef67fce3f37d940ab1af68a37e3b4e6dfe2a59",
+      "bytes": 3092
+    },
+    {
+      "path": "domain/types.ts",
+      "sha256": "df87b7cb684360f0c544ceb9f7f71fa1660232eccf1e8a8b190dca61864b13d5",
+      "bytes": 733
+    },
+    {
+      "path": "infrastructure/sensor-simulator.ts",
+      "sha256": "9db9c0f513a9ec260fa830bdebba094266b602bd9ff5a4b1d12e10fa5f10ff12",
+      "bytes": 1555
+    },
+    {
+      "path": "main.ts",
+      "sha256": "253df5839adda7f4fcd510113319ed3c605562de28e4f4d1cd966ca29c0cd78b",
+      "bytes": 1324
+    }
+  ],
+  "note": "Snapshot e SHA-256 do src gerado, para auditoria posterior. Não prova isolamento do agente."
+}

@@ -1,0 +1,14 @@
+{
+  "trial": "trial-01",
+  "condition": "with-harness",
+  "tool": "Google Antigravity",
+  "model": "Claude Sonnet 4.6",
+  "modelIdentified": true,
+  "mode": "Agent",
+  "permissions": "Default; workspace local",
+  "notes": "",
+  "transcript": "trial-01-with-harness-transcript.txt",
+  "transcriptPresent": true,
+  "source": "declaração humana (não verificada automaticamente)",
+  "recordedAt": "2026-11-21T15:10:41.725Z"
+}

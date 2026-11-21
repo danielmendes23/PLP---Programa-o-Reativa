@@ -1,0 +1,5 @@
+JSON report written to C:/Users/danie/Downloads/Harness_IA_Reativo_Revisto_Trial02/reactive-ai-harness/evaluation/results/trial-01-baseline-vitest.json
+
+npm notice run monitor-agente-experimento@1.0.0 npx
+npm notice run ^"vitest^" run --config .evaluation-vitest.config.mjs --reporter=json --outputFile=C:\Users\danie\Downloads\Harness_IA_Reativo_Revisto_Trial02\reactive-ai-harness\evaluation\results\trial-01-baseline-vitest.json
+

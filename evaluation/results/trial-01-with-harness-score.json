@@ -1,0 +1,50 @@
+{
+  "trial": "trial-01",
+  "reportId": "trial-01",
+  "condition": "with-harness",
+  "model": "Claude Sonnet 4.6",
+  "modelIdentified": true,
+  "sessionMetadataAvailable": true,
+  "sessionTool": "Google Antigravity",
+  "transcriptAvailable": true,
+  "sourceManifestFile": "trial-01-with-harness-source-manifest.json",
+  "sourceSnapshot": "trial-01-with-harness-source",
+  "sourceFileCount": 6,
+  "collectedAt": "2026-11-21T15:12:31.092Z",
+  "nodeVersion": "v26.5.1",
+  "acceptance": {
+    "passed": 13,
+    "failed": 0,
+    "failedSuites": 0,
+    "total": 13,
+    "rawTotal": 13,
+    "exitCode": 0,
+    "durationMs": 2630,
+    "reportAvailable": true,
+    "discoveryValid": true,
+    "expectedSuites": 2,
+    "discoveredSuites": 2,
+    "missingSuites": [],
+    "infrastructureError": null
+  },
+  "typescript": {
+    "diagnostics": 0,
+    "exitCode": 0,
+    "durationMs": 2335
+  },
+  "eslint": {
+    "errors": 0,
+    "warnings": 0,
+    "exitCode": 0,
+    "durationMs": 2742
+  },
+  "architecture": {
+    "violations": 0,
+    "exitCode": 0,
+    "durationMs": 72
+  },
+  "humanInterventions": 0,
+  "interventionLogConfirmed": true,
+  "logsPrefix": "trial-01-with-harness",
+  "note": "Metadados de modelo declarados pelo operador. Falhas de importação/suíte contam em failedSuites. Snapshots preservados."
+}

@@ -1,0 +1,8 @@
+{
+  "scannedFiles": 6,
+  "violationCount": 0,
+  "violations": [],
+  "coverage": "Imports literais, ciclos e indícios de efeitos colaterais; não equivale a revisão semântica/AST."
+}
+
+

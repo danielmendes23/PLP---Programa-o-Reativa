@@ -1,0 +1,4 @@
+
+npm notice run monitor-agente-experimento@1.0.0 npx
+npm notice run ^"tsc^" --project .evaluation-tsconfig.json
+

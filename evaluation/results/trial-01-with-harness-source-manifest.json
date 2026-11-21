@@ -1,0 +1,37 @@
+{
+  "capturedAt": "2026-11-21T15:12:31.082Z",
+  "fileCount": 6,
+  "files": [
+    {
+      "path": "application/monitor.ts",
+      "sha256": "b194bc43463a60d5faaa6a0203a6afdba5a0ae3dfe3d354a466ca3f7ec5fad7b",
+      "bytes": 721
+    },
+    {
+      "path": "domain/temperature-policy.ts",
+      "sha256": "4ee83232419bc1549c1517fca361be27f209e5a708c866c0ea69cec94a713be8",
+      "bytes": 1959
+    },
+    {
+      "path": "domain/types.ts",
+      "sha256": "df87b7cb684360f0c544ceb9f7f71fa1660232eccf1e8a8b190dca61864b13d5",
+      "bytes": 733
+    },
+    {
+      "path": "infrastructure/sensor-simulator.ts",
+      "sha256": "8fccfd674752abef287c06487d9730073fdab6bc9331ab79c73c41b23ed4a8bf",
+      "bytes": 920
+    },
+    {
+      "path": "main.ts",
+      "sha256": "4041f6eaa422b456dfe41e12b53dbb1b671fa98015c52ab1891f4fe041c1e35a",
+      "bytes": 843
+    },
+    {
+      "path": "presentation/formatter.ts",
+      "sha256": "3fda468a9d82c4025d8dce2a74cd59725a1521385a9f2579ed36374b6349cd3a",
+      "bytes": 344
+    }
+  ],
+  "note": "Snapshot e SHA-256 do src gerado, para auditoria posterior. Não prova isolamento do agente."
+}
