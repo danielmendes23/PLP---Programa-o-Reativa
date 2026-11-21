@@ -1,0 +1,3 @@
+trial,condition,model,tests_passed,tests_failed,failed_suites,typescript_diagnostics,eslint_errors,architecture_violations,human_interventions,notes
+trial-01,baseline,,,,,,,,,
+trial-01,with-harness,,,,,,,,,

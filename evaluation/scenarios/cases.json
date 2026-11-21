@@ -1,0 +1,84 @@
+[
+  {
+    "id": "three-highs",
+    "readings": [
+      29,
+      30,
+      31,
+      32
+    ],
+    "expected": [
+      "critical"
+    ]
+  },
+  {
+    "id": "no-repeat",
+    "readings": [
+      30,
+      30,
+      30,
+      34,
+      40
+    ],
+    "expected": [
+      "critical"
+    ]
+  },
+  {
+    "id": "normalization",
+    "readings": [
+      30,
+      30,
+      30,
+      28,
+      29,
+      27
+    ],
+    "expected": [
+      "critical",
+      "normalized"
+    ]
+  },
+  {
+    "id": "reset-between-highs",
+    "readings": [
+      30,
+      30,
+      29,
+      30,
+      30
+    ],
+    "expected": []
+  },
+  {
+    "id": "rearm",
+    "readings": [
+      30,
+      30,
+      30,
+      27,
+      30,
+      30,
+      30
+    ],
+    "expected": [
+      "critical",
+      "normalized",
+      "critical"
+    ]
+  },
+  {
+    "id": "invalid-sensor-value",
+    "readings": [
+      30,
+      30,
+      "NaN",
+      30,
+      30,
+      30
+    ],
+    "expected": [
+      "critical"
+    ]
+  }
+]

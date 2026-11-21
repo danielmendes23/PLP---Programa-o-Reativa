@@ -1,0 +1,10 @@
+node_modules/
+dist/
+coverage/
+*.log
+*.tsbuildinfo
+runs/
+evaluation/results/*
+!evaluation/results/README.md
+!evaluation/results/template.csv
+.DS_Store
