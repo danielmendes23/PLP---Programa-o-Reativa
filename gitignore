@@ -1,0 +1,38 @@
+# Dependências, compilação e caches
+node_modules/
+dist/
+coverage/
+.vite/
+.vitest/
+.cache/
+*.tsbuildinfo
+
+# Configurações locais e informações sensíveis
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários do avaliador
+.evaluation-eslint.config.mjs
+.evaluation-tsconfig.json
+.evaluation-vitest.config.mjs
+/runs/**/evaluation/acceptance/
+
+# Arquivos compactados e logs locais
+*.zip
+*.log
+
+# Evidências do experimento: manter os logs oficiais, relatórios e códigos
+!/evaluation/results/*.log
+# runs/ e evaluation/results/ são versionados.
+
+# Históricos das sessões: publicar somente após revisão de dados sensíveis
+*transcript*.txt
