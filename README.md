@@ -1,3 +1,10 @@
+# Projeto de PLP com programação orientada a eventos.
+
+Discentes
+
+Daniel Mendes da Silva
+Enrique Ferreira da Silva
+
 # Harness para Agentes de IA — Monitoramento Reativo de Temperatura
 
 Projeto acadêmico de backend que investiga a influência de um **harness de desenvolvimento** na implementação de software por agentes de IA, com foco em programação reativa e orientação a eventos.
