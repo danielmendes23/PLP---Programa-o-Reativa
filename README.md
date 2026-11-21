@@ -2,8 +2,9 @@
 
 Discentes
 
-Daniel Mendes da Silva
-Enrique Ferreira da Silva
+Daniel Mendes da Silva.
+
+Enrique Ferreira da Silva.
 
 # Harness para Agentes de IA — Monitoramento Reativo de Temperatura
 
